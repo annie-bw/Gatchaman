@@ -1,0 +1,125 @@
+2025-06-04   05:42:25
+2025-06-04   05:44:46
+the most recent time the monitor recorder was 2025-06-04   05:57:29
+the most recent time the monitor recorder was start   
+the most recent time the monitor recorded was at 2025-06-04   06:00:19
+the first time the monitor recorded was at  start   
+the most recent time the monitor recorded was at 2025-06-04   06:07:40
+the first time the monitor recorded was at  2025-06-04 06:07:41
+the most recent time the monitor recorded was at 2025-06-04   06:21:50
+the first time the monitor recorded was at  2025-06-04   06:21:51
+the most recent time the monitor recorded was at 2025-06-04   07:38:07
+the first time the monitor recorded was at  2025-06-04   07:38:09
+the most recent time the monitor recorded was at 2025-06-04   07:46:24
+the first time the monitor recorded was at  2025-06-04   07:46:27
+the most recent time the monitor recorded was at 2025-06-04   07:49:08
+the first time the monitor recorded was at  start   
+the most recent time the monitor recorded was at 2025-06-04   07:50:12
+the first time the monitor recorded was at  start   
+the most recent time the monitor recorded was at 2025-06-04   07:54:23
+the first time the monitor recorded was at  2025-06-04   04:52:01
+the most recent time the monitor recorded was at 2025-06-04   07:56:54
+the first time the monitor recorded was at  2025-06-04   04:52:01
+the last time the heart monitor recorded was:  2025-06-04   08:14:42
+the first time the heart monitor recorded was:  2025-06-04   04:52:01
+the last time the water usage monitor recorded was at 
+the first time the water usage monitor recorded was at  2025-06-02   07:06:01
+the last time the temperature monitor recorded was at 
+the first time the temperature monitor recorded was at  2025-06-04   03:39:27
+the last time the water usage monitor recorded was at 2025-06-04   08:28:20
+the first time the water usage monitor recorded was at  2025-06-02   07:06:01
+the last time the temperature monitor recorded was at 2025-06-04   08:28:46
+the first time the temperature monitor recorded was at  2025-06-04   03:39:27
+the last time the heart monitor recorded was:  2025-06-04   08:48:58
+the first time the heart monitor recorded was:  2025-06-04   04:52:01
+the last time the temperature monitor recorded was at 2025-06-04   08:49:10
+the first time the temperature monitor recorded was at  2025-06-04   03:39:27
+the last time the heart monitor recorded was:  2025-06-04   08:50:46
+the first time the heart monitor recorded was:  2025-06-04   04:52:01
+the last time the heart monitor recorded was:  2025-06-04   13:34:46
+the first time the heart monitor recorded was:  2025-06-04   04:52:01
+the last time the temperature monitor recorded was at 2025-06-04   13:35:17
+the first time the temperature monitor recorded was at  2025-06-04   03:39:27
+the last time the water usage monitor recorded was at 2025-06-04   13:35:45
+the first time the water usage monitor recorded was at  2025-06-02   07:06:01
+the last time the temperature monitor recorded was at 2025-06-04   13:40:50
+the first time the temperature monitor recorded was at  2025-06-04   04:52:01
+the last time the temperature monitor recorded was at 2025-06-04   13:42:59
+the first time the temperature monitor recorded was at  2025-06-04   04:52:01
+the last time the heart monitor recorded was at 2025-06-04   13:47:04
+the first time the heart monitor recorded was at  2025-06-04   04:52:01
+________________________________________________________________________________________________________________________
+the last time the heart monitor recorded was at 2025-06-04   13:52:18
+the first time the heart monitor recorded was at  2025-06-04   04:52:01
+_________________________________________________________________________________________________
+the last time the heart monitor recorded was at 2025-06-04   13:54:45
+the first time the heart monitor recorded was at  2025-06-04   04:52:01
+_________________________________________________________________________________________________
+the last time the heart monitor recorded was at 2025-06-04   14:05:00
+the first time the heart monitor recorded was at  2025-06-04   04:52:01
+_________________________________________________________________________________________________
+the last time the heart monitor recorded was at 2025-06-04   14:06:57
+the first time the heart monitor recorded was at  2025-06-04   04:52:01
+_________________________________________________________________________________________________
+the last time the heart monitor recorded was at 2025-06-04   14:09:56
+the first time the heart monitor recorded was at  2025-06-04   04:52:01
+_________________________________________________________________________________________________
+the last time the heart monitor recorded was at 2025-06-04   14:13:07
+the first time the heart monitor recorded was at  2025-06-04   04:52:01
+_________________________________________________________________________________________________
+the last time the heart monitor recorded was at 2025-06-04   14:14:51
+the first time the heart monitor recorded was at  2025-06-04   04:52:01
+_________________________________________________________________________________________________
+the last time the heart monitor recorded was at 2025-06-04   14:20:40
+the first time the heart monitor recorded was at  2025-06-04   04:52:01
+_________________________________________________________________________________________________
+the last time the heart monitor recorded was at 2025-06-04   14:23:25
+the first time the heart monitor recorded was at  2025-06-04   04:52:01
+_________________________________________________________________________________________________
+the last time the heart monitor recorded was at 2025-06-04   14:26:49
+the first time the heart monitor recorded was at  2025-06-04   04:52:01
+_________________________________________________________________________________________________
+the last time the heart monitor recorded was at 2025-06-04   14:33:36
+the first time the heart monitor recorded was at  2025-06-04   04:52:01
+_________________________________________________________________________________________________
+the last time the heart monitor recorded was at 2025-06-04   14:34:37
+the first time the heart monitor recorded was at  2025-06-04   04:52:01
+_________________________________________________________________________________________________
+the last time the temperature monitor recorded was at 2025-06-04   14:40:13
+the first time the temperature monitor recorded was at  2025-06-04   03:39:27
+-e\n
+the last time the heart monitor recorded was at 2025-06-04   14:40:45
+the first time the heart monitor recorded was at  2025-06-04   04:52:01
+
+
+the last time the water usage monitor recorded was at 2025-06-04   14:41:12
+the first time the water usage monitor recorded was at  2025-06-02   07:06:01
+-e\n
+the last time the temperature monitor recorded was at 2025-06-04   14:43:22
+the first time the temperature monitor recorded was at  2025-06-04   03:39:27
+
+
+the last time the water usage monitor recorded was at 2025-06-04   14:43:48
+the first time the water usage monitor recorded was at  2025-06-02   07:06:01
+
+
+the last time the temperature monitor recorded was at 2025-06-04   14:51:23
+the first time the temperature monitor recorded was at  2025-06-04   03:39:27
+
+
+the last time the heart monitor recorded was at 2025-06-04   14:55:50
+the first time the heart monitor recorded was at  2025-06-04   04:52:01
+
+
+the last time the temperature monitor recorded was at 2025-06-04   15:00:10
+the first time the temperature monitor recorded was at  2025-06-04   03:39:27
+
+
+the last time the water usage monitor recorded was at 2025-06-04   15:04:46
+the first time the water usage monitor recorded was at  2025-06-02   07:06:01
+
+
+the last time the heart monitor recorded was at 2025-06-04   15:06:17
+the first time the heart monitor recorded was at  2025-06-04   04:52:01
+
+
