@@ -123,3 +123,52 @@ the last time the heart monitor recorded was at 2025-06-04   15:06:17
 the first time the heart monitor recorded was at  2025-06-04   04:52:01
 
 
+ 158176 Temp_Recorder_A
+ 158176 Temp_Recorder_B
+the last time the temperature monitor recorded was at 2025-06-05   03:59:54
+the first time the temperature monitor recorded was at  2025-06-04   03:39:27
+
+
+    988 Water_Consumption_Meter
+   7072 Temp_Recorder_A
+   7072 Temp_Recorder_B
+the last time the temperature monitor recorded was at 2025-06-06 02:54:50
+the first time the temperature monitor recorded was at  2025-06-06 01:55:50
+
+
+
+the last time the heart monitor recorded was at 2025-06-06   02:55:12
+the first time the heart monitor recorded was at  2025-06-06   01:50:12
+
+
+   3780 Water_Consumption_Meter
+the last time the water usage monitor recorded was at 2025-06-06   02:55:24
+the first time the water usage monitor recorded was at  2025-06-06   01:52:20
+
+
+
+the last time the heart monitor recorded was at 2025-06-06   02:57:11
+the first time the heart monitor recorded was at  2025-06-06   01:50:12
+
+
+
+the last time the heart monitor recorded was at 2025-06-06   02:58:05
+the first time the heart monitor recorded was at  2025-06-06   01:50:12
+
+
+
+the last time the heart monitor recorded was at 2025-06-06   02:58:56
+the first time the heart monitor recorded was at  2025-06-06   01:50:12
+
+
+
+the last time the heart monitor recorded was at 2025-06-06   03:01:26
+the first time the heart monitor recorded was at  2025-06-06   01:50:12
+
+
+  13685 HeartRate_Monitor_A
+  13685 HeartRate_Monitor_B
+the last time the heart monitor recorded was at 2025-06-06   03:06:20
+the first time the heart monitor recorded was at  2025-06-06   01:50:12
+
+
